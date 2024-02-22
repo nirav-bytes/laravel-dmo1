@@ -1,0 +1,8 @@
+{
+    "name": "bytes-nirav/demo1",
+    "description": "\"demo1\"",
+    "type": "liberary",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
