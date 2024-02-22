@@ -1,13 +1,15 @@
 {
     "name": "bytes-nirav/demo1",
     "description": "\"demo1\"",
-    "type": "liberary",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "BytesNirav\\Demo1\\": "src/"
         }
     },
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "bytes-nirav/demo1": "^1.0"
+    },
+    "minimum-stability": "stable"
 }
