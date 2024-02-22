@@ -8,8 +8,6 @@
             "BytesNirav\\Demo1\\": "src/"
         }
     },
-    "require": {
-        "bytes-nirav/demo1": "^1.0"
-    },
+    "require": {},
     "minimum-stability": "stable"
 }
