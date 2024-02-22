@@ -3,6 +3,11 @@
     "description": "\"demo1\"",
     "type": "liberary",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BytesNirav\\Demo1\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
